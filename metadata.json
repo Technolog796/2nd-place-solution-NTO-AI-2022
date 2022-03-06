@@ -1,0 +1,4 @@
+{
+    "image": "skalinin1/baseline-ocr-segm:latest",
+    "entry_point": "python run.py"
+}
