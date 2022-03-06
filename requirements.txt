@@ -1,0 +1,14 @@
+pyyaml==5.1
+git+https://github.com/facebookresearch/detectron2.git
+albumentations==1.0.0
+opencv-python-headless==4.1.2.30
+transformers
+datasets
+jiwer
+wandb
+Augmentor
+augmixations==0.1.2
+bezier==2020.5.19
+torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+numpy==1.20.3
+matplotlib==3.4.2
