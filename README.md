@@ -15,7 +15,7 @@
 ### Модели
 
 **Instance Segmentation**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/Anonumous796/2nd-place-solution-NTO-AI-2022/blob/main/train/model_for_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anonumous796/2nd-place-solution-NTO-AI-2022/blob/main/train/model_for_detection.ipynb)
 
 - Мы использовали модель [R101-FPN](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md#coco-instance-segmentation-baselines-with-mask-r-cnn) из зоопарка моделей detectron2 в совокупности с аугментациями и высоким разрешением
 
@@ -25,7 +25,7 @@
 - архитектура CRNN с бекбоном Resnet-34, предобученным на синтезе от [StackMix](https://github.com/sberbank-ai/StackMix-OCR)
 
 ### Вычислительные мощности & Submit`
----`
+---
 **Christofari** с **NVIDIA Tesla V100** и образом **jupyter-cuda11.0-tf2.4.0-gpu:0.0.76**
 
 Submit можно найти по ссылкам:
