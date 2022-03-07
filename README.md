@@ -15,7 +15,7 @@
 ### Модели
 
 **Instance Segmentation**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lednik7/nto-ai-text-recognition/blob/main/train/detectron2_segmentation_latest.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/Anonumous796/2nd-place-solution-NTO-AI-2022/blob/main/train/model_for_detection.ipynb)
 
 - Мы использовали модель [R101-FPN](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md#coco-instance-segmentation-baselines-with-mask-r-cnn) из зоопарка моделей detectron2 в совокупности с аугментациями и высоким разрешением
 
