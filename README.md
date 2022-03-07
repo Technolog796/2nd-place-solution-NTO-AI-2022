@@ -17,7 +17,7 @@
 **Instance Segmentation**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lednik7/nto-ai-text-recognition/blob/main/train/detectron2_segmentation_latest.ipynb)
 
-- модель [X101-FPN](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md#coco-instance-segmentation-baselines-with-mask-r-cnn) из зоопарка моделей detectron2 + аугментации + высокое разрешение
+- модель [R101-FPN](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md#coco-instance-segmentation-baselines-with-mask-r-cnn) из зоопарка моделей detectron2 + аугментации + высокое разрешение
 
 **Optical Character Recognition (OCR)**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lednik7/nto-ai-text-recognition/blob/main/train/ocr_model.ipynb)
