@@ -24,7 +24,7 @@
 
 - архитектура CRNN с бекбоном Resnet-34, предобученным на синтезе от [StackMix](https://github.com/sberbank-ai/StackMix-OCR)
 
-### Вычислительные мощности & Submit
+### Вычислительные мощности & Submit`
 ---
 **Christofari** с **NVIDIA Tesla V100** и образом **jupyter-cuda11.0-tf2.4.0-gpu:0.0.76**
 
