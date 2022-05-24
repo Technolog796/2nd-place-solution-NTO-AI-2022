@@ -37,7 +37,7 @@ Submit можно найти по ссылкам:
 @misc{nto-ai-text-recognition,
   author =       {Ilia Kuleshov and Danil Astafurov},
   title =        {notebook-recognition},
-  howpublished = {\url{https://github.com/Anonumous796/2nd-place-solution-NTO-AI-2022}},
+  howpublished = {https://github.com/Anonumous796/2nd-place-solution-NTO-AI-2022},
   year =         {2022}
 }
 ```
